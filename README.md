@@ -32,14 +32,6 @@ Happy making!!!!
    Reaction Timer: Test your speed with this fun game!
         The Reaction Timer project is a game made from two green LEDs, a red LED, and a push button.  Each LED lights up one at a time.         Your goal is to press the button when the red LED is on!  If you're successful, the game gets faster! If you press a green LED,         the game slows down.  Concept from https://adamcoster.com/2012/03/04/arduino-reaction-time-game/
         
-    Simon : Enjoy this classic game!
+   Simon Says: Enjoy this classic game!
         Can you keep up? This game uses LEDs, push buttons, and a piezo buzzer to create the classic game of Simon Says.  The LEDs light         up in different patterns.  Your goal is to follow each pattern exactly by pressing the buttons in the same pattern as their    
         corresponding LEDs.  Concept from http://www.kreativekiste.de/arduino-senso-simon-says-4-led-bauanleitung
-        
-        
-        
-        
-        
-        
-        
-   
