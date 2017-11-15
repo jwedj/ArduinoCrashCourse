@@ -35,3 +35,5 @@ Happy making!!!!
     Simon Says: Enjoy this classic game!
         Can you keep up? This game uses LEDs, push buttons, and a piezo buzzer to create the classic game of Simon Says.  The LEDs light         up in different patterns.  Your goal is to follow each pattern exactly by pressing the buttons in the same pattern as their    
         corresponding LEDs.  Concept from http://www.kreativekiste.de/arduino-senso-simon-says-4-led-bauanleitung
+        
+   
