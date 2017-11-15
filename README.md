@@ -9,7 +9,7 @@ Happy making!!!!
 ❤️ OU ACM
                                             
                                             ******Project Descriptions*****
-  Accelerometer Servo: USE THE FORCE (Equals Mass Times Acceleration) to control a servo motor with your hand using an accelerometer!!!
+  Accelerometer Servo: USE THE FORCE (equals mass times acceleration) to control a servo motor with your hand using an accelerometer!!!
          Attach the accelerometer to a glove or directly to your hand, and make a motor move by changing your hand's position!
   
   "Garduino": Soil moisture tracker! 
