@@ -9,8 +9,6 @@ All wiring diagrams are either a .png or .jpg image.  .ino is the file extension
 Happy making!!!! 
 ❤️ OU ACM
 
-
-
                                               ******Project Descriptions*****
   "Garduino": Soil moisture tracker! 
       Garduino prints out messages in the serial monitor to let you know if your plant's soil moisure levels are A-okay, or if it's time       to water!!! Try adding a temperature sensor, or maybe even an irrigation system to Garduino!  Come up with a way other than serial       monitor to keep track of your plant.  Concept from http://www.instructables.com/id/Garduino-Gardening-Arduino/
