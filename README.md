@@ -9,6 +9,9 @@ Happy making!!!!
 ❤️ OU ACM
                                             
                                             ******Project Descriptions*****
+  Accelerometer Servo: USE THE FORCE (Equals Mass Times Acceleration) to control a servo motor with your hand using an accelerometer!!!
+         Attach the accelerometer to a glove or directly to your hand, and make a motor move by changing your hand's position!
+  
   "Garduino": Soil moisture tracker! 
       Garduino prints out messages in the serial monitor to let you know if your plant's soil moisure levels are A-okay, or if it's time       to water!!! Try adding a temperature sensor, or maybe even an irrigation system to Garduino!  Come up with a way other than serial       monitor to keep track of your plant.  Concept from http://www.instructables.com/id/Garduino-Gardening-Arduino/
      
@@ -32,9 +35,6 @@ Happy making!!!!
    Simon Says: Enjoy this classic game!
         Can you keep up? This game uses LEDs, push buttons, and a piezo buzzer to create the classic game of Simon Says.  The LEDs light         up in different patterns.  Your goal is to follow each pattern exactly by pressing the buttons in the same pattern as their    
         corresponding LEDs.  Concept from http://www.kreativekiste.de/arduino-senso-simon-says-4-led-bauanleitung
-        
-    USE THE FORCE (Equals Mass Times Acceleration)!!!: Control a servo motor with your hand using an accelerometer.
-         Attach the accelerometer to a glove or directly to your hand, and make a motor move by changing your hand's position!
-         
+               
     Range Sensor Theremin: Make our rendition of this musical instrument!
          The Range Sensor Theremin uses an ultrasonic range sensor to control the tone produced by a piezo buzzer. Produce a tone by              placing your hand in front of the sensor, and change it by moving your hand close and farther away.  Try adding a pop of color          with an RGB LED that changes color with the tone!!!
