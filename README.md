@@ -28,13 +28,13 @@ Happy making!!!!
    
    Piezo Piano: Make a mini musical instrument.
        The Piezo Piano uses piezo buzzers and push buttons to make a piano-like instrument that can play 8 notes!  Try replacing the            buttons with touch sensors.  If you really want a challenge, try making visual art by mapping the piezo sounds into an image!            Concept from https://godspeech.wordpress.com/2012/06/06/simple-piezo-piano-using-arduino/
-       
+    
+   Range Sensor Theremin: Make our rendition of this musical instrument!
+         The Range Sensor Theremin uses an ultrasonic range sensor to control the tone produced by a piezo buzzer. Produce a tone by              placing your hand in front of the sensor, and change it by moving your hand close and farther away.  Try adding a pop of color          with an RGB LED that changes color with the tone!!!
+    
    Reaction Timer: Test your speed with this fun game!
         The Reaction Timer project is a game made from two green LEDs, a red LED, and a push button.  Each LED lights up one at a time.         Your goal is to press the button when the red LED is on!  If you're successful, the game gets faster! If you press a green LED,         the game slows down.  Concept from https://adamcoster.com/2012/03/04/arduino-reaction-time-game/
         
    Simon Says: Enjoy this classic game!
         Can you keep up? This game uses LEDs, push buttons, and a piezo buzzer to create the classic game of Simon Says.  The LEDs light         up in different patterns.  Your goal is to follow each pattern exactly by pressing the buttons in the same pattern as their    
         corresponding LEDs.  Concept from http://www.kreativekiste.de/arduino-senso-simon-says-4-led-bauanleitung
-               
-    Range Sensor Theremin: Make our rendition of this musical instrument!
-         The Range Sensor Theremin uses an ultrasonic range sensor to control the tone produced by a piezo buzzer. Produce a tone by              placing your hand in front of the sensor, and change it by moving your hand close and farther away.  Try adding a pop of color          with an RGB LED that changes color with the tone!!!
