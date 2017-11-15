@@ -9,8 +9,8 @@ Happy making!!!!
 ❤️ OU ACM
                                             
                                             ******Project Descriptions*****
-  Accelerometer Servo: USE THE FORCE (equals mass times acceleration) to control a servo motor with your hand using an accelerometer!!!
-         Attach the accelerometer to a glove or directly to your hand, and make a motor move by changing your hand's position!
+  Accelerometer Servo: USE THE FORCE (equals mass times acceleration) to control a servo motor with your hand!!!
+         Use an accelerometer to control a servo.  Attach the accelerometer to a glove or directly to your hand, and make a motor move            by changing your hand's position!
   
   "Garduino": Soil moisture tracker! 
       Garduino prints out messages in the serial monitor to let you know if your plant's soil moisure levels are A-okay, or if it's time       to water!!! Try adding a temperature sensor, or maybe even an irrigation system to Garduino!  Come up with a way other than serial       monitor to keep track of your plant.  Concept from http://www.instructables.com/id/Garduino-Gardening-Arduino/
