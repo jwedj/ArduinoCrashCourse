@@ -1,5 +1,5 @@
 # ArduinoCrashCourse
-This repo contains the code and wiring diagrams for all of the projects from the OU ACM Arduino Crash Course.  These are all meant to be simple, fun, and easy Arduino projects for beginners or those who want a starting point to build a new project from.  
+This repo contains the code and wiring diagrams for all of the projects from the OU ACM Arduino Crash Course.  These are all meant to be simple, fun, and easy Arduino projects for beginners or those who want a simple starting point to build a new project.  
 
 For those of you who attended, we hope that you had fun and learned a lot!!! For those of you who weren't able to attend or have stumbled upon this lovely repo, we hope that our code/circuits help you with your projects and learning!!! Let us know if you have any questions.
 
