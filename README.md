@@ -5,10 +5,8 @@ For those of you who attended, we hope that you had fun and learned a lot!!! For
 
 All wiring diagrams are either a .png or .jpg image.  .ino is the file extension for Arduino IDE projects.
 
-
 Happy making!!!! 
 ❤️ OU ACM
-
                                               ******Project Descriptions*****
   "Garduino": Soil moisture tracker! 
       Garduino prints out messages in the serial monitor to let you know if your plant's soil moisure levels are A-okay, or if it's time       to water!!! Try adding a temperature sensor, or maybe even an irrigation system to Garduino!  Come up with a way other than serial       monitor to keep track of your plant.  Concept from http://www.instructables.com/id/Garduino-Gardening-Arduino/
@@ -38,4 +36,4 @@ Happy making!!!!
          Attach the accelerometer to a glove or directly to your hand, and make a motor move by changing your hand's position!
          
     Range Sensor Theremin: Make our rendition of this musical instrument!
-         The Range Sensor Theremin uses an ultrasonic range sensor to control the tone produced by a piezo buzzer. Produce a tone by              placing your hand in front of the sensor, and change it by moving your hand close and farther away.  Try adding a pop of color          with an RGB LED that changes color with the tone!!
+         The Range Sensor Theremin uses an ultrasonic range sensor to control the tone produced by a piezo buzzer. Produce a tone by              placing your hand in front of the sensor, and change it by moving your hand close and farther away.  Try adding a pop of color          with an RGB LED that changes color with the tone!!!
