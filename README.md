@@ -11,7 +11,7 @@ Happy making!!!!
                                             ******Project Descriptions*****
   Accelerometer Servo: USE THE FORCE (equals mass times acceleration) to control a servo motor with your hand!!!
          The Accelerometer Servo uses the position of an accelerometer to make a servo move.  Attach the accelerometer to a glove or              directly to your hand, and make the servo move by changing your hand's position!
-     
+         
   Hand-Controlled Servo: Control a motor with the movement of your finger.
       The hand-controlled servo project uses a flex sensor attached to a glove (or directly to your finger!) to control a servo motor.         How cool would this be if you made it wireless! Concept from 
       https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/all#experiment-9-using-a-flex-sensor
