@@ -11,9 +11,6 @@ Happy making!!!!
                                             ******Project Descriptions*****
   Accelerometer Servo: USE THE FORCE (equals mass times acceleration) to control a servo motor with your hand!!!
          The Accelerometer Servo uses the position of an accelerometer to make a servo move.  Attach the accelerometer to a glove or              directly to your hand, and make the servo move by changing your hand's position!
-  
-  "Garduino": Soil moisture tracker! 
-      Garduino prints out messages in the serial monitor to let you know if your plant's soil moisure levels are A-okay, or if it's time       to water!!! Try adding a temperature sensor, or maybe even an irrigation system to Garduino!  Come up with a way other than serial       monitor to keep track of your plant.  Concept from http://www.instructables.com/id/Garduino-Gardening-Arduino/
      
   Hand-Controlled Servo: Control a motor with the movement of your finger.
       The hand-controlled servo project uses a flex sensor attached to a glove (or directly to your finger!) to control a servo motor.         How cool would this be if you made it wireless! Concept from 
