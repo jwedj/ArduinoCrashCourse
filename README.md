@@ -34,6 +34,5 @@ Happy making!!!!
         corresponding LEDs.  Concept from http://www.kreativekiste.de/arduino-senso-simon-says-4-led-bauanleitung
         
    The Best Hot Chocolate!: Know when your hot chocolate (or other hot beverages) are at the right temperature for drinking!
-        The Best Hot Chocolate project uses a TMP36 temperature sensor and an RGB LED as an indicator to let you know when your hot     
-        drink is at the optimal temperature for enjoyment, not too hot, not too cold (but eh...we're all different, so the best       
+        The Best Hot Chocolate project uses a TMP36 temperature sensor and an RGB LED as an indicator to let you know when your hot drink is at the optimal temperature for enjoyment, not too hot, not too cold (but eh...we're all different, so the best       
         temperature may vary...but that's why you have open source code from Github to play with!!!!!).
