@@ -3,7 +3,7 @@ This repo contains the PowerPoint presentation, as well as the code and wiring d
 
 For those of you who attended, we hope that you had fun and learned a lot!!! For those of you who weren't able to attend or have stumbled upon our snazzy repo, we hope that our code/circuits help you with your projects and learning!!! Let us know if you have any questions.
 
-The "Resources" folder contains a text file of all of the links to the community resources listed in the PowerPoint, as well as a few other helpful links.
+The "Resources" file is a list of all of the links to the community resources listed in the PowerPoint, as well as a few other helpful links.
 
 In the project folders, all wiring diagrams are either a .png or .jpg image.  .ino is the file extension for Arduino IDE projects.
 
