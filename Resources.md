@@ -17,3 +17,5 @@ Sparkfun SIK Guide (walks beginners through Arduino step by step): https://cdn.s
 Other beginner walkthroughs: https://playground.arduino.cc/Main/ManualsAndCurriculum
 
 Arduino Functions Reference to help with code: https://www.arduino.cc/reference/en/
+
+Arduino Forum (let other people help you with your project! I have only gotten friendly and helpful responses.  If you would like to look at other forums, SparkFun and Adafruit are also options, though I have never used them): https://forum.arduino.cc/
