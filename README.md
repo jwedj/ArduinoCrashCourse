@@ -7,6 +7,8 @@ The "Resources" file is a list of all of the links to the community resources li
 
 In the project folders, all wiring diagrams are either a .png or .jpg image.  .ino is the file extension for Arduino IDE projects.
 
+Note: If you are an OU student, you may check out Arduino kits from the Bizzell Library at The Edge https://libraries.ou.edu/content/innovation-edge
+
 Happy making!!!! 
 ❤️ OU ACM
                                             
