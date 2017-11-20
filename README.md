@@ -1,9 +1,11 @@
 # ArduinoCrashCourse
-This repo contains the code and wiring diagrams for all of the projects from the OU ACM Arduino Crash Course.  These are all meant to be simple, fun, and easy Arduino projects for beginners or those who want a simple starting point to build a new project.  
+This repo contains the the PowerPoint presentation, as well as all of the project code and wiring diagrams from the OU ACM Arduino Crash Course.  These are all meant to be simple, fun, and easy Arduino projects for beginners or those who want a simple starting point to build a new project.  
 
 For those of you who attended, we hope that you had fun and learned a lot!!! For those of you who weren't able to attend or have stumbled upon our snazzy repo, we hope that our code/circuits help you with your projects and learning!!! Let us know if you have any questions.
 
-All wiring diagrams are either a .png or .jpg image.  .ino is the file extension for Arduino IDE projects.
+The "Resources" folder contains a text file of all of the links to the community resources listed in the PowerPoint, as well as a few other helpful links.
+
+In the project folders, all wiring diagrams are either a .png or .jpg image.  .ino is the file extension for Arduino IDE projects.
 
 Happy making!!!! 
 ❤️ OU ACM
