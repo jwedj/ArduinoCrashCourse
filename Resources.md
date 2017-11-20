@@ -1,14 +1,11 @@
 Here are the links to the community resources listed in the PowerPoint, as well as a few other helpful links...
 
 For tutorials, project inspiration, and purchasing parts: https://www.adafruit.com/
-
-For tutorials, project inspiration, and purchasing parts: https://www.sparkfun.com/
-
-For tutorials, project inspiration, and purchasing parts: https://www.arduino.cc/
+                                                          https://www.sparkfun.com/
+                                                          https://www.arduino.cc/
 
 For tutorials and project inspiration: http://www.instructables.com/
-
-For tutorials and project inspiration: https://www.jeremyblum.com/category/arduino-tutorials/
+                                       https://www.jeremyblum.com/category/arduino-tutorials/
 
 For project inspiration: https://makezine.com/
 
