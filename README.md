@@ -9,16 +9,13 @@ Happy making!!!!
 ❤️ OU ACM
                                             
                                             ******Project Descriptions*****
-  Accelerometer Servo: USE THE FORCE (equals mass times acceleration) to control a servo motor with your hand!!!
+   Accelerometer Servo: USE THE FORCE (equals mass times acceleration) to control a servo motor with your hand!!!
          The Accelerometer Servo uses the position of an accelerometer to make a servo move.  Attach the accelerometer to a glove or              directly to your hand, and make the servo move by changing your hand's position!
          
-  Hand-Controlled Servo: Control a motor with the movement of your finger.
+   Hand-Controlled Servo: Control a motor with the movement of your finger.
       The hand-controlled servo project uses a flex sensor attached to a glove (or directly to your finger!) to control a servo motor.         How cool would this be if you made it wireless! Concept from 
       https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/all#experiment-9-using-a-flex-sensor
-    
-  The Best Hot Chocolate!: Know when your hot chocolate (or other hot beverages) are at the right temperature for drinking!
-      The Best Hot Chocolate project uses a TMP36 temperature sensor and an RGB LED as an indicator to let you know when your hot drink       is at the optimal temperature for enjoyment, not too hot, not too cold (but eh...we're all different, so the best temperature may       vary...but that's why you have open source code from Github to play with!!!!!).
-      
+         
    Mood Light: Give the room an ever-changing hue with this light that changes color based on the amount of ambient light in the room!
       The Mood Light project uses a photoresistor to control an RGB LED.  As the room fills with light, the LED gets brighter with       
       colors like yellow and light blue.  As the room gets darker, the LED turns dark hues of red, blue, and purple.
@@ -35,3 +32,8 @@ Happy making!!!!
    Simon Says: Enjoy this classic game!
         Can you keep up? This game uses LEDs, push buttons, and a piezo buzzer to create the classic game of Simon Says.  The LEDs light         up in different patterns.  Your goal is to follow each pattern exactly by pressing the buttons in the same pattern as their    
         corresponding LEDs.  Concept from http://www.kreativekiste.de/arduino-senso-simon-says-4-led-bauanleitung
+        
+   The Best Hot Chocolate!: Know when your hot chocolate (or other hot beverages) are at the right temperature for drinking!
+        The Best Hot Chocolate project uses a TMP36 temperature sensor and an RGB LED as an indicator to let you know when your hot     
+        drink is at the optimal temperature for enjoyment, not too hot, not too cold (but eh...we're all different, so the best       
+        temperature may vary...but that's why you have open source code from Github to play with!!!!!).
