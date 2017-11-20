@@ -18,4 +18,4 @@ Other beginner walkthroughs: https://playground.arduino.cc/Main/ManualsAndCurric
 
 Arduino Functions Reference to help with code: https://www.arduino.cc/reference/en/
 
-Arduino Forum (let other people help you with your project! I have only gotten friendly and helpful responses.  If you would like to look at other forums, SparkFun and Adafruit are also options, though I have never used them): https://forum.arduino.cc/
+Arduino Forum (let other people help you with your project! I have only gotten friendly and helpful responses.  If you would like to look at other forums, I know that Adafruit is also an option, though I have never used their forum): https://forum.arduino.cc/
