@@ -13,7 +13,7 @@ Happy making!!!!
 ❤️ OU ACM
                                             
                                             ******Project Descriptions*****
-   Accelerometer Servo: USE THE FORCE (equals mass times acceleration) to control a servo motor with your hand!!!
+   Accelerometer Servo: USE THE FORCE to control a servo motor with your hand!!!
          The Accelerometer Servo uses the position of an accelerometer to make a servo move.  Attach the accelerometer to a glove or              directly to your hand, and make the servo move by changing your hand's position!
          
    Hand-Controlled Servo: Control a motor with the movement of your finger.
